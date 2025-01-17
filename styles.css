@@ -7,7 +7,8 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: #f39c12;
+    color: aliceblue;
+    background: #000000;
 }
 #navbar {
     position: fixed;
